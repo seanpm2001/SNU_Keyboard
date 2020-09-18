@@ -1,0 +1,5 @@
+New repository: SNU keyboard
+> List of keyboard shortcuts
+Keyboard shortcut codename: K y b r d prefula index (for sub-module)
+> DIR (Keyboard_shortcuts/Linux/Fedora/GNOME) (Linux/Ubuntu/GNOME/Firefox) (Windows/10/General) (MacOS/11.0/LibreOffice) (OpenBSD/DE/VirtualBox) (IBM/OS/2/Warp/4/Microsoft Excel 4.0) etc.
+Objective: an archive of every single keyboard shortcut in existance
